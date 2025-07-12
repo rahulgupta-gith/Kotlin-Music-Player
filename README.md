@@ -26,4 +26,4 @@ Search for any song using the **iTunes API**, and instantly play a 30-second pre
 
 ![Search UI](app/screenshots/HomePage.jpg)
 ![Search Bar](app/screenshots/searchBar.jpg)
-![List](screenshots/page1.jpg)
+![List](app/screenshots/page1.jpg)
